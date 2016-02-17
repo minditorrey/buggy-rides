@@ -1,0 +1,41 @@
+body {
+  background-color: #B2B3B1;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#banner-marty {
+  background-color: white;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  color: #299EC4;
+  border-top: 5px solid;
+  border-bottom: 5px solid;
+  
+}
+h1 {
+  font-size: 28px;
+  font-family: Oswald;
+  text-shadow: 2px 1px #B2B3B1;
+}
+#special {
+  background-color: white;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family: Oswald;
+  font-size: 18px;
+  color: #299EC4;
+  border-top: 5px solid;
+  border-bottom: 5px solid;
+}
+#amish {
+  height: 300px;
+  width: 400px;
+  margin: 30px;
+  border: 5px solid #B2B3B1;
+  box-shadow: 10px 10px 5px #888888;
+}
