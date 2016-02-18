@@ -1,6 +1,17 @@
 body {
   background-color: #B2B3B1;
 }
+
+.container {
+  background-color: #00b8e6;
+  padding: 20px;
+}
+
+iform {
+    border: 5px solid #B2B3B1;
+  box-shadow: 10px 10px 5px #888888;
+}
+
 #banner-marty {
   background-color: white;
   text-align: center;
