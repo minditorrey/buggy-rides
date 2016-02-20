@@ -24,17 +24,19 @@ body {
 }
 
 #amish-banner {
-   height: 150px;
+   height: 200px;
 }
 .dropdown {
   margin-top: 50px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 .btn {
   box-shadow: 5px 5px 2px #888888;
 }
 h1 {
-  font-size: 300%;
+  font-size: 400%;
   font-family: Oswald;
   text-shadow: 2px 1px #B2B3B1;
 }
