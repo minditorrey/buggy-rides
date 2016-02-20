@@ -14,14 +14,22 @@ body {
 
 #banner-marty {
   background-color: white;
+  font-size: 300%;
   text-align: center;
   padding-top: 5px;
   padding-bottom: 5px;
   margin-top: 20px;
   color: #299EC4;
-  border-top: 5px solid;
-  border-bottom: 5px solid;
+  box-shadow: 8px 8px 5px #888888;
   
+}
+
+.dropdown {
+  margin-top: 50px;
+}
+
+.btn {
+  box-shadow: 5px 5px 2px #888888;
 }
 h1 {
   font-size: 28px;
@@ -38,7 +46,7 @@ h1 {
   font-family: Oswald;
   font-size: 18px;
   color: #299EC4;
-  box-shadow: 8px 8px 5px #888888;;
+  box-shadow: 8px 8px 5px #888888;
 }
 #amish, #van {
   margin: 30px;
