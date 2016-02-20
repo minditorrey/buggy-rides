@@ -17,16 +17,17 @@ body {
 #banner-marty {
   background-color: white;
   text-align: center;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-top: 30px;
-  color: #299EC4;
-  box-shadow: 8px 8px 5px #888888;
+  color: #ff9900;
+  
   
 }
 
 #amish-banner {
-   height: 250px;
+   height: 270px;
+   box-shadow: 6px 6px 3px #888888;
 }
 .dropdown {
   margin-top: 50px;
@@ -35,7 +36,7 @@ body {
 }
 
 .btn {
-  box-shadow: 5px 5px 2px #888888;
+  box-shadow: 4px 4px 2px #888888;
 }
 h1 {
   font-size: 96px;
@@ -56,12 +57,18 @@ h1 {
 }
 #amish, #van {
   margin: 30px;
-  border: 3px solid #000000;
+  border: 3px solid #B2B3B1;
   box-shadow: 8px 8px 5px #888888;
   padding-left: 5px;
-  padding-rigth: 5px;
+  padding-right: 5px;
 }
 .well {
   margin-top: 20px;
   box-shadow: 5px 5px 3px #888888;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  
 }
