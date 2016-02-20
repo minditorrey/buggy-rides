@@ -20,14 +20,16 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   margin-top: 30px;
-  color: #ff9900;
-  
-  
+  color: #F12424;
+}
+
+h2 {
+  color: #F12424;
 }
 
 #amish-banner {
    height: 270px;
-   box-shadow: 6px 6px 3px #888888;
+
 }
 .dropdown {
   margin-top: 50px;
@@ -59,8 +61,7 @@ h1 {
   margin: 30px;
   border: 3px solid #B2B3B1;
   box-shadow: 8px 8px 5px #888888;
-  padding-left: 5px;
-  padding-right: 5px;
+
 }
 .well {
   margin-top: 20px;
@@ -70,5 +71,6 @@ h1 {
 footer {
   color: white;
   text-align: center;
-  
+  margin-top: 25px;
+  margin-bottom: 30px;
 }
